@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis5", "Uzduotis5\Uzdu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis6", "Uzduotis6\Uzduotis6.csproj", "{8F9489C0-9471-4B57-AA6B-216E28DFAA7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis7", "Uzduotis7\Uzduotis7.csproj", "{BDC880CB-DC92-4B46-9894-FD074540FE9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzduotis8", "Uzduotis8\Uzduotis8.csproj", "{6FDDDD21-44AB-449A-9058-2884F41774C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{8F9489C0-9471-4B57-AA6B-216E28DFAA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F9489C0-9471-4B57-AA6B-216E28DFAA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F9489C0-9471-4B57-AA6B-216E28DFAA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC880CB-DC92-4B46-9894-FD074540FE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC880CB-DC92-4B46-9894-FD074540FE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC880CB-DC92-4B46-9894-FD074540FE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC880CB-DC92-4B46-9894-FD074540FE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDDDD21-44AB-449A-9058-2884F41774C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDDDD21-44AB-449A-9058-2884F41774C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDDDD21-44AB-449A-9058-2884F41774C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDDDD21-44AB-449A-9058-2884F41774C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
